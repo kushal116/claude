@@ -1,0 +1,73 @@
+C:\Users\pkush\Desktop\youtube_bot_v4\youtube_bot\venv\lib\site-packages\google\api_core\_python_version_support.py:242: FutureWarning: You are using a non-supported Python version (3.9.13). Google will not post any further updates to google.api_core supporting this Python version. Please upgrade to the latest Python version, or at least Python 3.10, and then update google.api_core.
+  warnings.warn(message, FutureWarning)
+C:\Users\pkush\Desktop\youtube_bot_v4\youtube_bot\venv\lib\site-packages\google\auth\__init__.py:54: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+C:\Users\pkush\Desktop\youtube_bot_v4\youtube_bot\venv\lib\site-packages\google\oauth2\__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+[INFO] main \u2192 Folders ready \u2713
+[INFO] main \u2192 --now flag: running pipeline immediately.
+[INFO] main \u2192 \u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550
+[INFO] main \u2192 \u25b6  4-AGENT PIPELINE START
+[INFO] main \u2192    2026-04-13 22:08:19
+[INFO] main \u2192 \u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550
+[INFO] main \u2192 Queue empty — running full 4-agent research cycle...
+[INFO] main \u2192 \u250c\u2500 AGENT 1: Scraping trending signals across platforms...
+[INFO] Agent1:Scraper \u2192 Scraping YouTube trending videos...
+[INFO] Agent1:Scraper \u2192 Agent 1: Asking Claude to analyse cross-platform trends...
+[ERROR] Agent1:Scraper \u2192 Agent 1 failed: Expecting value: line 1 column 1 (char 0)
+[INFO] main \u2192 \u2514\u2500 Agent 1 complete: 0 signals collected
+[INFO] main \u2192 \u250c\u2500 AGENT 2: Analyzing & isolating outlier opportunities...
+[INFO] Agent2:Analyzer \u2192 Agent 2: Analyzing 0 trending signals...
+[WARNING] Agent2:Analyzer \u2192 No data from Agent 1 — using Claude's own trend knowledge
+[INFO] Agent2:Analyzer \u2192 Agent 2 isolated 10 outlier opportunities:
+[INFO] Agent2:Analyzer \u2192   #1 'Why Successful People Never Use Alarms (Circadian Rhythm Sec' — Replication: 10/10
+[INFO] Agent2:Analyzer \u2192   #2 'The 4-Hour Workday: How Top Performers Actually Structure Th' — Replication: 10/10
+[INFO] Agent2:Analyzer \u2192   #3 'I Analyzed 500 Viral Videos - The Algorithm Changed Everythi' — Replication: 10/10
+[INFO] Agent2:Analyzer \u2192   #4 'Why the Richest People Wake Up at 4 AM (It's Not What You Th' — Replication: 10/10
+[INFO] Agent2:Analyzer \u2192   #5 'I Analyzed 10,000 Millionaires' Morning Routines - Here's Wh' — Replication: 9/10
+[INFO] main \u2192 \u2514\u2500 Agent 2 complete: 10 outliers identified
+[INFO] main \u2192    10 fresh outliers queued (priority-ranked)
+[INFO] main \u2192 \U0001f4cc Selected: 'Why Successful People Never Use Alarms (Circadian Rhythm Secrets)'
+[INFO] main \u2192    Replication score: 10/10
+[INFO] main \u2192    CPM estimate: $15-28
+[INFO] main \u2192 \u250c\u2500 AGENT 3: Ghostwriting script (viral structure analysis)...
+[INFO] Agent3:Ghostwriter \u2192 Agent 3: Ghostwriting script for 'Why Successful People Never Use Alarms (Circadian ...'
+[INFO] Agent3:Ghostwriter \u2192 Agent 3 complete. Script \u2248911 words in body sections.
+[INFO] main \u2192 \u2514\u2500 Agent 3 complete: full script written
+[INFO] main \u2192 \u250c\u2500 AGENT 4: Generating 5 scroll-stopping hooks...
+[INFO] Agent4:HookGen \u2192 Agent 4: Generating 5 hooks for 'Why Billionaires Never Eat Breakfast (Fasting Scie...'
+[INFO] Agent4:HookGen \u2192 Agent 4 generated 5 hooks.
+[INFO] Agent4:HookGen \u2192   \U0001f3c6 Winner [STAT SHOCK] score=8.7
+[INFO] Agent4:HookGen \u2192   Hook: "73% of billionaires skip breakfast, but it has nothing to do with fasting. They ..."
+[INFO] Agent4:HookGen \u2192   #2  [QUESTION TRAP] score=8.7
+[INFO] Agent4:HookGen \u2192   #3  [BOLD CLAIM] score=8.0
+[INFO] Agent4:HookGen \u2192   #4  [STORY OPEN] score=8.0
+[INFO] Agent4:HookGen \u2192   #5  [FEAR TRIGGER] score=8.0
+[INFO] main \u2192 \u2514\u2500 Agent 4 complete: winning hook injected
+[INFO] main \u2192 \U0001f4dd Title: Why Billionaires Never Eat Breakfast (Fasting Science Explained)
+[INFO] main \u2192    Script: \u22481,291 words
+[INFO] main \u2192    Hook [STAT SHOCK]: "73% of billionaires skip breakfast, but it has nothing to do with fast..."
+[INFO] main \u2192 \U0001f399\ufe0f  Generating voice over...
+[INFO] voiceover \u2192 Generating voice over \u2192 output/audio\Why_Successful_People_Never_Use_Alarms__Circadian_Rhythm_Secrets_.mp3
+[INFO] voiceover \u2192 Voice: en-US-AriaNeural | Rate: -5% | Characters: 8,142
+[INFO] voiceover \u2192 Voice over done \u2713  (3383 KB)
+[INFO] main \u2192 \U0001f3ac  Assembling video...
+[INFO] videocreator \u2192 Assembling video \u2192 output/videos\Why_Successful_People_Never_Use_Alarms__Circadian_Rhythm_Secrets_.mp4
+[INFO] videocreator \u2192 Total video duration: 577.3s (9.6 min)
+[INFO] videocreator \u2192 Downloading footage 1/10: https://videos.pexels.com/video-files/27454111/12148370_1920...
+[INFO] videocreator \u2192 Downloading footage 2/10: https://videos.pexels.com/video-files/35556708/15065800_1920...
+[INFO] videocreator \u2192 Downloading footage 3/10: https://videos.pexels.com/video-files/10432922/10432922-hd_1...
+[INFO] videocreator \u2192 Downloading footage 4/10: https://videos.pexels.com/video-files/7164568/7164568-hd_192...
+[INFO] videocreator \u2192 Downloading footage 5/10: https://videos.pexels.com/video-files/8322330/8322330-hd_204...
+[INFO] videocreator \u2192 Downloading footage 6/10: https://videos.pexels.com/video-files/36448548/15455963_1920...
+[INFO] videocreator \u2192 Downloading footage 7/10: https://videos.pexels.com/video-files/7033610/7033610-hd_192...
+[INFO] videocreator \u2192 Downloading footage 8/10: https://videos.pexels.com/video-files/6976598/6976598-hd_144...
+[INFO] videocreator \u2192 Downloading footage 9/10: https://videos.pexels.com/video-files/30039319/12886408_1920...
+[INFO] videocreator \u2192 Downloading footage 10/10: https://videos.pexels.com/video-files/7033779/7033779-hd_192...
+[INFO] videocreator \u2192 Downloaded 10 footage clips
+[WARNING] videocreator \u2192 Text overlay failed for 'The Cereal Industry's Most Profitable Lie': Invalid font Arial-Bold, pillow failed to use it with error cannot open resource
+[WARNING] videocreator \u2192 Text overlay failed for 'What Actually Happens When You Skip Breakfast': Invalid font Arial-Bold, pillow failed to use it with error cannot open resource
+[WARNING] videocreator \u2192 Text overlay failed for 'The Performance Advantage Top Achievers Know': Invalid font Arial-Bold, pillow failed to use it with error cannot open resource
+[WARNING] videocreator \u2192 Text overlay failed for 'Why You Feel Hungry (And How It Disappears)': Invalid font Arial-Bold, pillow failed to use it with error cannot open resource
+[WARNING] videocreator \u2192 Text overlay failed for 'The 16-Hour Protocol That Changes Everything': Invalid font Arial-Bold, pillow failed to use it with error cannot open resource
+[INFO] videocreator \u2192 Rendering video (this takes a few minutes)...

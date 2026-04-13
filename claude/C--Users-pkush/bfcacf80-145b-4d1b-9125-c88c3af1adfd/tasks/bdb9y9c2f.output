@@ -1,0 +1,30 @@
+  [DBG] Buildup found at 2026-03-12 13:48:00: short score=4.7 level=5181.50
+    [RISK-REJ] R:R too low for BB
+  [DBG] Buildup found at 2026-03-12 14:06:00: long score=4.7 level=5179.00
+    [RISK-REJ] R:R too low for FB
+  [DBG] Buildup found at 2026-03-12 14:23:00: long score=4.7 level=5174.45
+    [RISK-REJ] R:R too low for FB
+  [DBG] Buildup found at 2026-03-12 14:41:00: long score=4.7 level=5174.45
+    [RISK-REJ] R:R too low for FB
+  [DBG] Buildup found at 2026-03-12 14:58:00: short score=4.7 level=5174.45
+    [RISK-REJ] R:R too low for FB
+  [DBG] Buildup found at 2026-03-12 15:16:00: short score=4.7 level=5174.45
+    [RISK-REJ] R:R too low for FB
+  [DBG] Buildup found at 2026-03-12 15:33:00: long score=4.7 level=5174.45
+    [RISK-REJ] R:R too low for FB
+  [DBG] Buildup found at 2026-03-12 15:51:00: long score=7.9 level=5174.45
+    [RISK-REJ] R:R too low for FB
+  [DBG] Buildup found at 2026-03-12 16:08:00: short score=7.8 level=5164.50
+    [RISK-REJ] R:R too low for BB
+  [DBG] Buildup found at 2026-03-12 16:26:00: short score=7.8 level=5164.50
+    [RISK-REJ] R:R too low for BB
+  [DBG] Buildup found at 2026-03-12 21:41:00: long score=4.8 level=5109.95
+    [REJ] close=5094.35 level=5109.95 dir=long
+  [DBG] Buildup found at 2026-03-13 01:53:00: short score=4.7 level=5089.00
+    [RISK-REJ] R:R too low for FB
+  [DBG] Buildup found at 2026-03-13 02:11:00: long score=4.7 level=5099.50
+    [RISK-REJ] R:R too low for BB
+  [DBG] Buildup found at 2026-03-13 02:28:00: long score=4.7 level=5099.50
+    [RISK-REJ] R:R too low for BB
+  [DBG] Buildup found at 2026-03-13 03:56:00: short score=4.7 level=5110.50
+    [RISK-REJ] R:R too low for FB

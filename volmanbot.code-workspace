@@ -1,0 +1,18 @@
+{
+    "folders": [
+        {
+            "path": ".",
+            "name": "Volman Bot"
+        }
+    ],
+    "settings": {
+        "terminal.integrated.defaultProfile.windows": "VolmanBot",
+        "terminal.integrated.cwd": "C:\\volmanbot",
+        "python.defaultInterpreterPath": "C:\\volmanbot\\venv\\Scripts\\python.exe",
+        "editor.fontSize": 14,
+        "files.exclude": {
+            "**/__pycache__": true,
+            "venv": true
+        }
+    }
+}

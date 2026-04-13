@@ -1,0 +1,237 @@
+2026-04-13 00:24:58,176 | INFO     | main | =======================================================
+2026-04-13 00:24:58,176 | INFO     | main |   VOLMAN SCALPING BOT - STARTING UP
+2026-04-13 00:24:58,176 | INFO     | main | =======================================================
+2026-04-13 00:24:58,176 | INFO     | src.tick_builder | TickBarBuilder initialized | tick_size=70
+2026-04-13 00:24:58,176 | INFO     | src.alert_system | AlertSystem: Telegram enabled
+2026-04-13 00:24:58,198 | INFO     | src.database | Database connected: data/volman.db
+2026-04-13 00:24:58,235 | INFO     | src.execution_engine | MT5 connected | account=5049200677 | balance=$100000.00
+2026-04-13 00:24:58,240 | INFO     | src.risk_engine | RiskEngine | balance=$100000.0 | risk=1.0%
+2026-04-13 00:24:58,241 | INFO     | src.telegram_controller | TelegramController initialized
+2026-04-13 00:24:58,242 | INFO     | main | All modules initialized
+2026-04-13 00:24:58,242 | INFO     | src.alert_system | Alert: VOLMAN BOT - SESSION STARTED
+Time: 2026-04-12 14:54 UTC
+Watching EUR/USD for set...
+2026-04-13 00:25:02,978 | INFO     | src.telegram_controller | Telegram listener started
+2026-04-13 00:25:02,985 | INFO     | apscheduler.scheduler | Scheduler started
+2026-04-13 00:25:04,095 | INFO     | main | Bot running | Send /help on Telegram for commands
+2026-04-13 00:25:04,095 | INFO     | main | Press Ctrl+C to stop
+
+2026-04-13 00:25:36,042 | INFO     | main | Bot stopped by user
+2026-04-13 00:25:36,042 | INFO     | main | Shutting down...
+2026-04-13 00:25:36,042 | INFO     | apscheduler.scheduler | Scheduler has been shut down
+2026-04-13 00:25:45,322 | INFO     | src.telegram_controller | Telegram listener stopped
+2026-04-13 00:25:45,326 | INFO     | src.alert_system | Alert: SESSION ENDED - DAILY SUMMARY
+==============================
+Trades : 0
+Wins   :...
+2026-04-13 00:25:45,834 | INFO     | src.execution_engine | MT5 shutdown
+2026-04-13 00:25:45,841 | INFO     | main | Bot stopped cleanly
+2026-04-13 00:26:17,558 | INFO     | main | =======================================================
+2026-04-13 00:26:17,559 | INFO     | main |   VOLMAN SCALPING BOT - STARTING UP
+2026-04-13 00:26:17,559 | INFO     | main | =======================================================
+2026-04-13 00:26:17,559 | INFO     | src.tick_builder | TickBarBuilder initialized | tick_size=70
+2026-04-13 00:26:17,559 | INFO     | src.alert_system | AlertSystem: Telegram enabled
+2026-04-13 00:26:17,566 | INFO     | src.database | Database connected: data/volman.db
+2026-04-13 00:26:17,590 | INFO     | src.execution_engine | MT5 connected | account=5049200677 | balance=$100000.00
+2026-04-13 00:26:17,590 | INFO     | src.risk_engine | RiskEngine | balance=$100000.0 | risk=1.0%
+2026-04-13 00:26:17,599 | INFO     | src.telegram_controller | TelegramController initialized
+2026-04-13 00:26:17,599 | INFO     | main | All modules initialized
+2026-04-13 00:26:17,599 | INFO     | src.alert_system | Alert: VOLMAN BOT - SESSION STARTED
+Time: 2026-04-12 14:56 UTC
+Watching EUR/USD for set...
+2026-04-13 00:26:18,989 | INFO     | src.telegram_controller | Telegram listener started
+2026-04-13 00:26:18,993 | INFO     | apscheduler.scheduler | Scheduler started
+2026-04-13 00:26:19,899 | INFO     | main | Bot running | Send /help on Telegram for commands
+2026-04-13 00:26:19,899 | INFO     | main | Press Ctrl+C to stop
+
+2026-04-13 00:29:57,884 | INFO     | main | Bot stopped by user
+2026-04-13 00:29:57,884 | INFO     | main | Shutting down...
+2026-04-13 00:29:57,892 | INFO     | apscheduler.scheduler | Scheduler has been shut down
+2026-04-13 00:30:04,892 | INFO     | src.telegram_controller | Telegram listener stopped
+2026-04-13 00:30:04,900 | INFO     | src.alert_system | Alert: SESSION ENDED - DAILY SUMMARY
+==============================
+Trades : 0
+Wins   :...
+2026-04-13 00:30:05,334 | INFO     | src.execution_engine | MT5 shutdown
+2026-04-13 00:30:05,334 | INFO     | main | Bot stopped cleanly
+2026-04-13 00:30:11,921 | INFO     | main | =======================================================
+2026-04-13 00:30:11,923 | INFO     | main |   VOLMAN SCALPING BOT - STARTING UP
+2026-04-13 00:30:11,923 | INFO     | main | =======================================================
+2026-04-13 00:30:11,923 | INFO     | src.tick_builder | TickBarBuilder initialized | tick_size=70
+2026-04-13 00:30:11,925 | INFO     | src.alert_system | AlertSystem: Telegram enabled
+2026-04-13 00:30:11,927 | INFO     | src.database | Database connected: data/volman.db
+2026-04-13 00:30:11,943 | INFO     | src.execution_engine | MT5 connected | account=5049200677 | balance=$100000.00
+2026-04-13 00:30:11,950 | INFO     | src.risk_engine | RiskEngine | balance=$100000.0 | risk=1.0%
+2026-04-13 00:30:11,950 | INFO     | src.telegram_controller | TelegramController initialized
+2026-04-13 00:30:11,950 | INFO     | main | All modules initialized
+2026-04-13 00:30:11,950 | INFO     | src.alert_system | Alert: VOLMAN BOT - SESSION STARTED
+Time: 2026-04-12 15:00 UTC
+Watching EUR/USD for set...
+2026-04-13 00:30:13,170 | INFO     | src.telegram_controller | Telegram listener started
+2026-04-13 00:30:13,170 | INFO     | apscheduler.scheduler | Scheduler started
+2026-04-13 00:30:14,140 | INFO     | main | Bot running | Send /help on Telegram for commands
+2026-04-13 00:30:14,141 | INFO     | main | Press Ctrl+C to stop
+
+2026-04-13 16:33:56,731 | WARNING  | telegram.vendor.ptb_urllib3.urllib3.connectionpool | Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x000001A0872F9AC0>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed')': /bot8770127066:AAEiz1KguFs2K6hRn3yU88xv0MQwSv-odAw/getUpdates
+2026-04-13 20:37:57,821 | ERROR    | telegram.ext.updater | Error while getting Updates: urllib3 HTTPError ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-04-13 20:37:57,822 | ERROR    | telegram.ext.dispatcher | No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\volmanbot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 614, in urlopen
+    httplib_response = self._make_request(conn, method, url,
+  File "C:\volmanbot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 402, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "C:\volmanbot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 398, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Program Files\Python38\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Program Files\Python38\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Program Files\Python38\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Program Files\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Program Files\Python38\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Program Files\Python38\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\volmanbot\venv\lib\site-packages\telegram\utils\request.py", line 259, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "C:\volmanbot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 68, in request
+    return self.request_encode_body(method, url, fields=fields,
+  File "C:\volmanbot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "C:\volmanbot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\volmanbot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 665, in urlopen
+    retries = retries.increment(method, url, error=e, _pool=self,
+  File "C:\volmanbot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\retry.py", line 347, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\volmanbot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\packages\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "C:\volmanbot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 614, in urlopen
+    httplib_response = self._make_request(conn, method, url,
+  File "C:\volmanbot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 402, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "C:\volmanbot\venv\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 398, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Program Files\Python38\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Program Files\Python38\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Program Files\Python38\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Program Files\Python38\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Program Files\Python38\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Program Files\Python38\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+telegram.vendor.ptb_urllib3.urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\volmanbot\venv\lib\site-packages\telegram\ext\updater.py", line 651, in _network_loop_retry
+    if not action_cb():
+  File "C:\volmanbot\venv\lib\site-packages\telegram\ext\updater.py", line 602, in polling_action_cb
+    updates = self.bot.get_updates(
+  File "C:\volmanbot\venv\lib\site-packages\telegram\ext\extbot.py", line 228, in get_updates
+    updates = super().get_updates(
+  File "C:\volmanbot\venv\lib\site-packages\telegram\bot.py", line 134, in decorator
+    result = func(*args, **kwargs)
+  File "C:\volmanbot\venv\lib\site-packages\telegram\bot.py", line 3140, in get_updates
+    self._post(
+  File "C:\volmanbot\venv\lib\site-packages\telegram\bot.py", line 299, in _post
+    return self.request.post(
+  File "C:\volmanbot\venv\lib\site-packages\telegram\utils\request.py", line 361, in post
+    result = self._request_wrapper(
+  File "C:\volmanbot\venv\lib\site-packages\telegram\utils\request.py", line 265, in _request_wrapper
+    raise NetworkError(f'urllib3 HTTPError {error}') from error
+telegram.error.NetworkError: urllib3 HTTPError ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-04-13 20:38:56,336 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4759.82500 H:4759.82500 L:4723.93500 C:4723.93500 | Range:3589.0pip | Time:2026-04-11 08:29:59
+2026-04-13 20:39:28,418 | INFO     | main | Bot stopped by user
+2026-04-13 20:39:28,420 | INFO     | main | Shutting down...
+2026-04-13 20:39:28,440 | INFO     | apscheduler.scheduler | Scheduler has been shut down
+2026-04-13 20:39:33,132 | INFO     | src.telegram_controller | Telegram listener stopped
+2026-04-13 20:39:33,135 | INFO     | src.alert_system | Alert: SESSION ENDED - DAILY SUMMARY
+==============================
+Trades : 0
+Wins   :...
+2026-04-13 20:39:34,492 | INFO     | src.execution_engine | MT5 shutdown
+2026-04-13 20:39:34,492 | INFO     | main | Bot stopped cleanly
+2026-04-13 21:31:13,073 | INFO     | main | =======================================================
+2026-04-13 21:31:13,073 | INFO     | main |   VOLMAN SCALPING BOT - STARTING UP
+2026-04-13 21:31:13,073 | INFO     | main | =======================================================
+2026-04-13 21:31:13,073 | INFO     | src.tick_builder | TickBarBuilder initialized | tick_size=70
+2026-04-13 21:31:13,073 | INFO     | src.alert_system | AlertSystem: Telegram enabled
+2026-04-13 21:31:13,090 | INFO     | src.database | Database connected: data/volman.db
+2026-04-13 21:31:13,112 | INFO     | src.execution_engine | MT5 connected | account=5049200677 | balance=$100000.00
+2026-04-13 21:31:13,112 | INFO     | src.risk_engine | RiskEngine | balance=$100000.0 | risk=1.0%
+2026-04-13 21:31:13,112 | INFO     | src.telegram_controller | TelegramController initialized
+2026-04-13 21:31:13,112 | INFO     | main | All modules initialized
+2026-04-13 21:31:13,112 | INFO     | src.alert_system | Alert: VOLMAN BOT - SESSION STARTED
+Time: 2026-04-13 12:01 UTC
+Watching XAUUSD for setu...
+2026-04-13 21:31:14,123 | INFO     | src.telegram_controller | Telegram listener started
+2026-04-13 21:31:14,123 | INFO     | apscheduler.scheduler | Scheduler started
+2026-04-13 21:31:15,068 | INFO     | main | Bot running | Send /help on Telegram for commands
+2026-04-13 21:31:15,068 | INFO     | main | Press Ctrl+C to stop
+
+2026-04-13 21:32:23,327 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4703.90500 H:4711.80000 L:4703.89500 C:4711.32000 | Range:790.5pip | Time:2026-04-14 00:31:13
+2026-04-13 21:33:33,406 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4710.53500 H:4711.19000 L:4708.34500 C:4710.12500 | Range:284.5pip | Time:2026-04-14 00:32:23
+2026-04-13 21:34:43,280 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4710.12500 H:4710.59500 L:4706.52500 C:4709.27500 | Range:407.0pip | Time:2026-04-14 00:33:33
+2026-04-13 21:35:53,222 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4709.25500 H:4713.23500 L:4708.72500 C:4712.57500 | Range:451.0pip | Time:2026-04-14 00:34:43
+2026-04-13 21:37:03,229 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4712.65500 H:4713.11500 L:4709.86500 C:4712.81500 | Range:325.0pip | Time:2026-04-14 00:35:53
+2026-04-13 21:38:13,608 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4712.98500 H:4715.03000 L:4712.47500 C:4714.41500 | Range:255.5pip | Time:2026-04-14 00:37:03
+2026-04-13 21:39:23,338 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4714.47500 H:4714.54500 L:4713.04500 C:4713.45500 | Range:150.0pip | Time:2026-04-14 00:38:13
+2026-04-13 21:40:33,260 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4713.35500 H:4716.50500 L:4712.99500 C:4716.45500 | Range:351.0pip | Time:2026-04-14 00:39:23
+2026-04-13 21:41:44,216 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4716.25500 H:4718.44500 L:4716.06500 C:4717.99500 | Range:238.0pip | Time:2026-04-14 00:40:33
+2026-04-13 21:42:55,649 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4717.73500 H:4719.20500 L:4717.62500 C:4718.12500 | Range:158.0pip | Time:2026-04-14 00:41:44
+2026-04-13 21:44:07,724 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4718.34000 H:4720.20000 L:4718.24500 C:4719.00500 | Range:195.5pip | Time:2026-04-14 00:42:55
+2026-04-13 21:45:18,256 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4719.03500 H:4719.19500 L:4716.45500 C:4716.45500 | Range:274.0pip | Time:2026-04-14 00:44:07
+2026-04-13 21:46:28,427 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4716.54500 H:4717.23500 L:4715.61500 C:4716.14500 | Range:162.0pip | Time:2026-04-14 00:45:18
+2026-04-13 21:47:38,362 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4716.02500 H:4716.41000 L:4714.37500 C:4716.35500 | Range:203.5pip | Time:2026-04-14 00:46:28
+2026-04-13 21:48:48,224 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4716.37500 H:4716.77500 L:4714.58500 C:4714.83000 | Range:219.0pip | Time:2026-04-14 00:47:38
+2026-04-13 21:49:59,319 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4715.41000 H:4716.02500 L:4713.59500 C:4714.25500 | Range:243.0pip | Time:2026-04-14 00:48:48
+2026-04-13 21:51:09,478 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4714.18500 H:4714.52500 L:4709.91500 C:4710.30000 | Range:461.0pip | Time:2026-04-14 00:49:59
+2026-04-13 21:52:19,352 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4710.10000 H:4710.28500 L:4707.29500 C:4708.42000 | Range:299.0pip | Time:2026-04-14 00:51:09
+2026-04-13 21:53:29,721 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4708.93500 H:4709.20500 L:4708.10500 C:4708.37500 | Range:110.0pip | Time:2026-04-14 00:52:19
+2026-04-13 21:54:39,517 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4708.30500 H:4709.15500 L:4706.04500 C:4706.27500 | Range:311.0pip | Time:2026-04-14 00:53:29
+2026-04-13 21:54:39,639 | INFO     | src.level_detector | LevelDetector: found 20 levels
+2026-04-13 21:55:49,207 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4706.15500 H:4708.06500 L:4703.86000 C:4705.48500 | Range:420.5pip | Time:2026-04-14 00:54:39
+2026-04-13 21:56:59,259 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4705.41000 H:4708.48500 L:4703.93500 C:4707.58500 | Range:455.0pip | Time:2026-04-14 00:55:49
+2026-04-13 21:58:09,473 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4706.81500 H:4710.55500 L:4706.19500 C:4710.12500 | Range:436.0pip | Time:2026-04-14 00:56:59
+2026-04-13 21:59:20,186 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4710.11500 H:4711.40500 L:4708.79500 C:4708.92500 | Range:261.0pip | Time:2026-04-14 00:58:09
+2026-04-13 22:00:30,230 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4708.99500 H:4711.51500 L:4708.99500 C:4710.72500 | Range:252.0pip | Time:2026-04-14 00:59:20
+2026-04-13 22:01:40,181 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4710.43500 H:4712.90500 L:4710.10500 C:4712.90500 | Range:280.0pip | Time:2026-04-14 01:00:30
+2026-04-13 22:02:50,236 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4712.85500 H:4714.64500 L:4712.09500 C:4714.56500 | Range:255.0pip | Time:2026-04-14 01:01:40
+2026-04-13 22:04:00,535 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4714.61500 H:4715.85500 L:4712.80500 C:4712.80500 | Range:305.0pip | Time:2026-04-14 01:02:50
+2026-04-13 22:05:10,354 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4712.11500 H:4715.71500 L:4712.11500 C:4713.03500 | Range:360.0pip | Time:2026-04-14 01:04:00
+2026-04-13 22:06:20,278 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4713.02500 H:4715.39500 L:4712.10500 C:4715.39500 | Range:329.0pip | Time:2026-04-14 01:05:10
+2026-04-13 22:06:20,300 | INFO     | src.level_detector | LevelDetector: found 20 levels
+2026-04-13 22:07:30,267 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4715.44500 H:4716.01500 L:4713.44500 C:4715.15500 | Range:257.0pip | Time:2026-04-14 01:06:20
+2026-04-13 22:08:46,406 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4715.14000 H:4715.30000 L:4712.48500 C:4713.24500 | Range:281.5pip | Time:2026-04-14 01:07:30
+2026-04-13 22:09:56,489 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4713.23500 H:4713.23500 L:4709.17500 C:4711.49500 | Range:406.0pip | Time:2026-04-14 01:08:46
+2026-04-13 22:11:06,709 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4711.59500 H:4712.75500 L:4711.26500 C:4711.74500 | Range:149.0pip | Time:2026-04-14 01:09:56
+2026-04-13 22:12:16,211 | INFO     | src.tick_builder | Bar closed: TickBar ▼ | O:4712.05500 H:4712.32500 L:4710.84500 C:4711.55000 | Range:148.0pip | Time:2026-04-14 01:11:06
+2026-04-13 22:13:26,251 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4711.51500 H:4714.48500 L:4711.51500 C:4714.00500 | Range:297.0pip | Time:2026-04-14 01:12:16
+2026-04-13 22:14:36,552 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4713.66500 H:4716.61000 L:4713.47000 C:4715.22500 | Range:314.0pip | Time:2026-04-14 01:13:26
+2026-04-13 22:15:48,190 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4715.15000 H:4717.49500 L:4714.54500 C:4717.49500 | Range:295.0pip | Time:2026-04-14 01:14:36
+2026-04-13 22:16:58,183 | INFO     | src.tick_builder | Bar closed: TickBar ▲ | O:4717.61500 H:4720.90500 L:4717.20500 C:4720.52500 | Range:370.0pip | Time:2026-04-14 01:15:48
+2026-04-13 22:17:33,847 | INFO     | main | Bot stopped by user
+2026-04-13 22:17:33,848 | INFO     | main | Shutting down...
+2026-04-13 22:17:33,856 | INFO     | apscheduler.scheduler | Scheduler has been shut down
+2026-04-13 22:17:41,384 | INFO     | src.telegram_controller | Telegram listener stopped
+2026-04-13 22:17:41,400 | INFO     | src.alert_system | Alert: SESSION ENDED - DAILY SUMMARY
+==============================
+Trades : 0
+Wins   :...
+2026-04-13 22:17:42,405 | INFO     | src.execution_engine | MT5 shutdown
+2026-04-13 22:17:42,408 | INFO     | main | Bot stopped cleanly
